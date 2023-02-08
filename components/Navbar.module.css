@@ -9,7 +9,7 @@
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #a48cb3;
+  background-color: #b18fcf;
   display: flex;
   justify-content: space-evenly;
 }
@@ -18,12 +18,12 @@
 }
 .link {
   display: block;
-  color: #2c2c34;
+  color: #494850;
   text-align: center;
   padding: 14px 16px;
   text-decoration: underline;
 }
 
 .link:hover {
-  background-color: #9e8aa5;
+  background-color: #cfc6ed;
 }

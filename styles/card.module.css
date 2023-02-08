@@ -8,7 +8,7 @@
 .container div {
   border: 1px solid #2c2c34;
   border-radius: 10px;
-  background-color: #d8d8f6;
+  background-color: #494850;
   overflow: hidden;
 }
 .link {
@@ -23,5 +23,5 @@
 .title {
   display: block;
   text-decoration: none;
-  color: #494850;
+  color: #d8d8f6;
 }

@@ -1,16 +1,20 @@
 .container {
   border: 1px solid #2c2c34;
-  background-color: #c5b4e3;
+  background-color: #a48cb3;
 }
 .title {
   text-align: center;
+  font-size: 56px;
+  color: #494850;
 }
 .tag {
   text-align: center;
+  color: #494850;
 }
 .footer {
   border: 0px solid #2c2c34;
 }
 .footertext {
   text-align: center;
+  color: #494850;
 }
