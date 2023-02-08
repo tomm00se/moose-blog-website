@@ -1,0 +1,27 @@
+.container {
+  text-align: center;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  padding: 10px;
+  gap: 5px;
+}
+.container div {
+  border: 1px solid #2c2c34;
+  border-radius: 10px;
+  background-color: #d8d8f6;
+  overflow: hidden;
+}
+.link {
+  text-decoration: none;
+}
+.image {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+  aspect-ratio: 16/12;
+}
+.title {
+  display: block;
+  text-decoration: none;
+  color: #494850;
+}

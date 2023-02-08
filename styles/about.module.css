@@ -1,0 +1,21 @@
+.container {
+  text-align: center;
+  border: 1px solid #2c2c34;
+  margin: 20px;
+  background-color: #c4c4e0;
+}
+.imageContainer {
+  display: flex;
+  justify-content: center;
+}
+.image {
+  width: 250px;
+  height: auto;
+  border-radius: 50%;
+  border: 1px solid #2c2c34;
+}
+.text {
+  color: #2c2c34;
+  padding-left: 10px;
+  padding-right: 10px;
+}
