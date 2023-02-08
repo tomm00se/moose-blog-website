@@ -1,5 +1,6 @@
 .container {
-  border: 6px solid black;
+  border: 1px solid #2c2c34;
+  background-color: #c5b4e3;
 }
 
 .title {

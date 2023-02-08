@@ -1,25 +1,25 @@
 .container {
   margin-top: 1rem;
-  border: 3px solid black;
+  border: 1px solid #2c2c34;
 }
 .ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #b370b0;
+  background-color: #a48cb3;
 }
 .li {
   float: left;
 }
 .link {
   display: block;
-  color: white;
+  color: #2c2c34;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
 }
 
 .link:hover {
-  background-color: #87255b;
+  background-color: #9e8aa5;
 }
