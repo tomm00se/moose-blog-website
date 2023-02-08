@@ -2,7 +2,7 @@ import React from "react";
 import Header from "@/components/header";
 import Navbar from "@/components/Navbar";
 
-const index = () => {
+const music = () => {
   return (
     <div>
       <Header />
@@ -11,4 +11,4 @@ const index = () => {
   );
 };
 
-export default index;
+export default music;

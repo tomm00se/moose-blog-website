@@ -1,3 +1,7 @@
+.container {
+  border: 6px solid black;
+}
+
 .title {
   text-align: center;
 }
