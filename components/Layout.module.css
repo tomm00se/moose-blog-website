@@ -1,6 +1,6 @@
 .container {
   border: 1px solid #2c2c34;
-  background-color: #a48cb3;
+  background-color: #c4abcc;
 }
 .title {
   text-align: center;
@@ -13,8 +13,36 @@
 }
 .footer {
   border: 0px solid #2c2c34;
+  margin: 0;
 }
 .footertext {
   text-align: center;
   color: #494850;
+  font-size: larger;
+  margin: 0;
+  text-decoration: underline;
+}
+.ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  display: flex;
+  justify-content: space-evenly;
+  color: #494850;
+}
+.li {
+  float: left;
+}
+.link {
+  display: block;
+  color: #494850;
+  text-align: center;
+  padding: 10px 5px;
+  text-decoration: none;
+}
+
+.link:hover {
+  background-color: #cfc6ed;
+  border-radius: 10px;
 }
